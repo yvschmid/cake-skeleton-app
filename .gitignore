@@ -1,0 +1,4 @@
+# cake
+tools/*
+!tools/packages.config
+build/
